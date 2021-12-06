@@ -1,8 +1,6 @@
 import { Fragment, h } from 'preact'
 import rendertostring from 'preact-render-to-string'
 import JSX = preact.JSX
-
-// node
 import fs from 'fs'
 import path from 'path'
 import prettier from 'prettier'

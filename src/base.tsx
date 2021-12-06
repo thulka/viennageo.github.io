@@ -1,4 +1,4 @@
-import { Fragment, h } from 'preact'// preact
+import { Fragment, h } from 'preact'
 import rendertostring from 'preact-render-to-string'
 import JSX = preact.JSX
 
